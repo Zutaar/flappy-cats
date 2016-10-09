@@ -151,7 +151,7 @@ scr.appendChild(jumpSound);
 // It's technically a terrible name for a variable, but at least it's better
 // than the original song name. And hey, this is my program.
 var nyaNyaNya = document.createElement("audio");
-nyaNyaNya.src="Nyan Cat.mp3";
+nyaNyaNya.src="nyan-song.mp3";
 nyaNyaNya.volume=0.5;
 scr.appendChild(nyaNyaNya);
 
